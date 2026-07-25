@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Texas International College", "location": "Kathmandu", "fees": 385000, "course": "BSc.CSIT" },
+  { "id": 2, "name": "Prime College", "location": "Kathmandu", "fees": 420000, "course": "BSc.CSIT" },
+  { "id": 3, "name": "Ambition College", "location": "Lalitpur", "fees": 350000, "course": "BSc.CSIT" },
+  { "id": 4, "name": "Nagarjuna College", "location": "Bhaktapur", "fees": 460000, "course": "BIT" }
+]
